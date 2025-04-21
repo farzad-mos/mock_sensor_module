@@ -1,0 +1,7 @@
+*.o
+*.ko
+*.mod.*
+.modules.*
+Module.*
+.tmp_versions
+read_radar
